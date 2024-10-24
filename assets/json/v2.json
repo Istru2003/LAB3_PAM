@@ -1,0 +1,674 @@
+{
+  "banner": {
+    "image": "https://img.freepik.com/free-photo/young-female-holding-sale-writing-through-torn-paper-hole-wall_140725-105042.jpg?t=st=1728371714~exp=1728375314~hmac=46c8d3f6909541025151cbd48947207f8811d189a385b316e18b829b42fee2df&w=1380",
+    "button_title": "Booking now"
+  },
+  "nearest_barbershop": [
+    {
+      "name": "Barbershop 1",
+      "location_with_distance": "Area 1 (1.1 km)",
+      "image": "https://example.com/barbershop1.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 2",
+      "location_with_distance": "Area 2 (1.2 km)",
+      "image": "https://example.com/barbershop2.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 3",
+      "location_with_distance": "Area 3 (1.3 km)",
+      "image": "https://example.com/barbershop3.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 4",
+      "location_with_distance": "Area 4 (1.4 km)",
+      "image": "https://example.com/barbershop4.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 5",
+      "location_with_distance": "Area 5 (1.5 km)",
+      "image": "https://example.com/barbershop5.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 6",
+      "location_with_distance": "Area 6 (1.6 km)",
+      "image": "https://example.com/barbershop6.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 7",
+      "location_with_distance": "Area 7 (1.7 km)",
+      "image": "https://example.com/barbershop7.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 8",
+      "location_with_distance": "Area 8 (1.8 km)",
+      "image": "https://example.com/barbershop8.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 9",
+      "location_with_distance": "Area 9 (1.9 km)",
+      "image": "https://example.com/barbershop9.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 10",
+      "location_with_distance": "Area 10 (2.0 km)",
+      "image": "https://example.com/barbershop10.jpg",
+      "review_rate": 4.0
+    },
+    {
+      "name": "Barbershop 11",
+      "location_with_distance": "Area 11 (2.1 km)",
+      "image": "https://example.com/barbershop11.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 12",
+      "location_with_distance": "Area 12 (2.2 km)",
+      "image": "https://example.com/barbershop12.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 13",
+      "location_with_distance": "Area 13 (2.3 km)",
+      "image": "https://example.com/barbershop13.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 14",
+      "location_with_distance": "Area 14 (2.4 km)",
+      "image": "https://example.com/barbershop14.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 15",
+      "location_with_distance": "Area 15 (2.5 km)",
+      "image": "https://example.com/barbershop15.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 16",
+      "location_with_distance": "Area 16 (2.6 km)",
+      "image": "https://example.com/barbershop16.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 17",
+      "location_with_distance": "Area 17 (2.7 km)",
+      "image": "https://example.com/barbershop17.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 18",
+      "location_with_distance": "Area 18 (2.8 km)",
+      "image": "https://example.com/barbershop18.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 19",
+      "location_with_distance": "Area 19 (2.9 km)",
+      "image": "https://example.com/barbershop19.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 20",
+      "location_with_distance": "Area 20 (3.0 km)",
+      "image": "https://example.com/barbershop20.jpg",
+      "review_rate": 4.0
+    },
+    {
+      "name": "Barbershop 21",
+      "location_with_distance": "Area 21 (3.1 km)",
+      "image": "https://example.com/barbershop21.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 22",
+      "location_with_distance": "Area 22 (3.2 km)",
+      "image": "https://example.com/barbershop22.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 23",
+      "location_with_distance": "Area 23 (3.3 km)",
+      "image": "https://example.com/barbershop23.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 24",
+      "location_with_distance": "Area 24 (3.4 km)",
+      "image": "https://example.com/barbershop24.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 25",
+      "location_with_distance": "Area 25 (3.5 km)",
+      "image": "https://example.com/barbershop25.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 26",
+      "location_with_distance": "Area 26 (3.6 km)",
+      "image": "https://example.com/barbershop26.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 27",
+      "location_with_distance": "Area 27 (3.7 km)",
+      "image": "https://example.com/barbershop27.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 28",
+      "location_with_distance": "Area 28 (3.8 km)",
+      "image": "https://example.com/barbershop28.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 29",
+      "location_with_distance": "Area 29 (3.9 km)",
+      "image": "https://example.com/barbershop29.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 30",
+      "location_with_distance": "Area 30 (4.0 km)",
+      "image": "https://example.com/barbershop30.jpg",
+      "review_rate": 4.0
+    },
+    {
+      "name": "Barbershop 31",
+      "location_with_distance": "Area 31 (4.1 km)",
+      "image": "https://example.com/barbershop31.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 32",
+      "location_with_distance": "Area 32 (4.2 km)",
+      "image": "https://example.com/barbershop32.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 33",
+      "location_with_distance": "Area 33 (4.3 km)",
+      "image": "https://example.com/barbershop33.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 34",
+      "location_with_distance": "Area 34 (4.4 km)",
+      "image": "https://example.com/barbershop34.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 35",
+      "location_with_distance": "Area 35 (4.5 km)",
+      "image": "https://example.com/barbershop35.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 36",
+      "location_with_distance": "Area 36 (4.6 km)",
+      "image": "https://example.com/barbershop36.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 37",
+      "location_with_distance": "Area 37 (4.7 km)",
+      "image": "https://example.com/barbershop37.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 38",
+      "location_with_distance": "Area 38 (4.8 km)",
+      "image": "https://example.com/barbershop38.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 39",
+      "location_with_distance": "Area 39 (4.9 km)",
+      "image": "https://example.com/barbershop39.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 40",
+      "location_with_distance": "Area 40 (5.0 km)",
+      "image": "https://example.com/barbershop40.jpg",
+      "review_rate": 4.0
+    },
+    {
+      "name": "Barbershop 41",
+      "location_with_distance": "Area 41 (5.1 km)",
+      "image": "https://example.com/barbershop41.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 42",
+      "location_with_distance": "Area 42 (5.2 km)",
+      "image": "https://example.com/barbershop42.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 43",
+      "location_with_distance": "Area 43 (5.3 km)",
+      "image": "https://example.com/barbershop43.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 44",
+      "location_with_distance": "Area 44 (5.4 km)",
+      "image": "https://example.com/barbershop44.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 45",
+      "location_with_distance": "Area 45 (5.5 km)",
+      "image": "https://example.com/barbershop45.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 46",
+      "location_with_distance": "Area 46 (5.6 km)",
+      "image": "https://example.com/barbershop46.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 47",
+      "location_with_distance": "Area 47 (5.7 km)",
+      "image": "https://example.com/barbershop47.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 48",
+      "location_with_distance": "Area 48 (5.8 km)",
+      "image": "https://example.com/barbershop48.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 49",
+      "location_with_distance": "Area 49 (5.9 km)",
+      "image": "https://example.com/barbershop49.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 50",
+      "location_with_distance": "Area 50 (6.0 km)",
+      "image": "https://example.com/barbershop50.jpg",
+      "review_rate": 4.0
+    },
+    {
+      "name": "Barbershop 51",
+      "location_with_distance": "Area 51 (6.1 km)",
+      "image": "https://example.com/barbershop51.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 52",
+      "location_with_distance": "Area 52 (6.2 km)",
+      "image": "https://example.com/barbershop52.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 53",
+      "location_with_distance": "Area 53 (6.3 km)",
+      "image": "https://example.com/barbershop53.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 54",
+      "location_with_distance": "Area 54 (6.4 km)",
+      "image": "https://example.com/barbershop54.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 55",
+      "location_with_distance": "Area 55 (6.5 km)",
+      "image": "https://example.com/barbershop55.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 56",
+      "location_with_distance": "Area 56 (6.6 km)",
+      "image": "https://example.com/barbershop56.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 57",
+      "location_with_distance": "Area 57 (6.7 km)",
+      "image": "https://example.com/barbershop57.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 58",
+      "location_with_distance": "Area 58 (6.8 km)",
+      "image": "https://example.com/barbershop58.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 59",
+      "location_with_distance": "Area 59 (6.9 km)",
+      "image": "https://example.com/barbershop59.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 60",
+      "location_with_distance": "Area 60 (7.0 km)",
+      "image": "https://example.com/barbershop60.jpg",
+      "review_rate": 4.0
+    },
+    {
+      "name": "Barbershop 61",
+      "location_with_distance": "Area 61 (7.1 km)",
+      "image": "https://example.com/barbershop61.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 62",
+      "location_with_distance": "Area 62 (7.2 km)",
+      "image": "https://example.com/barbershop62.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 63",
+      "location_with_distance": "Area 63 (7.3 km)",
+      "image": "https://example.com/barbershop63.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 64",
+      "location_with_distance": "Area 64 (7.4 km)",
+      "image": "https://example.com/barbershop64.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 65",
+      "location_with_distance": "Area 65 (7.5 km)",
+      "image": "https://example.com/barbershop65.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 66",
+      "location_with_distance": "Area 66 (7.6 km)",
+      "image": "https://example.com/barbershop66.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 67",
+      "location_with_distance": "Area 67 (7.7 km)",
+      "image": "https://example.com/barbershop67.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 68",
+      "location_with_distance": "Area 68 (7.8 km)",
+      "image": "https://example.com/barbershop68.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 69",
+      "location_with_distance": "Area 69 (7.9 km)",
+      "image": "https://example.com/barbershop69.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 70",
+      "location_with_distance": "Area 70 (8.0 km)",
+      "image": "https://example.com/barbershop70.jpg",
+      "review_rate": 4.0
+    },
+    {
+      "name": "Barbershop 71",
+      "location_with_distance": "Area 71 (8.1 km)",
+      "image": "https://example.com/barbershop71.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 72",
+      "location_with_distance": "Area 72 (8.2 km)",
+      "image": "https://example.com/barbershop72.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 73",
+      "location_with_distance": "Area 73 (8.3 km)",
+      "image": "https://example.com/barbershop73.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 74",
+      "location_with_distance": "Area 74 (8.4 km)",
+      "image": "https://example.com/barbershop74.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 75",
+      "location_with_distance": "Area 75 (8.5 km)",
+      "image": "https://example.com/barbershop75.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 76",
+      "location_with_distance": "Area 76 (8.6 km)",
+      "image": "https://example.com/barbershop76.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 77",
+      "location_with_distance": "Area 77 (8.7 km)",
+      "image": "https://example.com/barbershop77.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 78",
+      "location_with_distance": "Area 78 (8.8 km)",
+      "image": "https://example.com/barbershop78.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 79",
+      "location_with_distance": "Area 79 (8.9 km)",
+      "image": "https://example.com/barbershop79.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 80",
+      "location_with_distance": "Area 80 (9.0 km)",
+      "image": "https://example.com/barbershop80.jpg",
+      "review_rate": 4.0
+    },
+    {
+      "name": "Barbershop 81",
+      "location_with_distance": "Area 81 (9.1 km)",
+      "image": "https://example.com/barbershop81.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 82",
+      "location_with_distance": "Area 82 (9.2 km)",
+      "image": "https://example.com/barbershop82.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 83",
+      "location_with_distance": "Area 83 (9.3 km)",
+      "image": "https://example.com/barbershop83.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 84",
+      "location_with_distance": "Area 84 (9.4 km)",
+      "image": "https://example.com/barbershop84.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 85",
+      "location_with_distance": "Area 85 (9.5 km)",
+      "image": "https://example.com/barbershop85.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 86",
+      "location_with_distance": "Area 86 (9.6 km)",
+      "image": "https://example.com/barbershop86.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 87",
+      "location_with_distance": "Area 87 (9.7 km)",
+      "image": "https://example.com/barbershop87.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 88",
+      "location_with_distance": "Area 88 (9.8 km)",
+      "image": "https://example.com/barbershop88.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 89",
+      "location_with_distance": "Area 89 (9.9 km)",
+      "image": "https://example.com/barbershop89.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 90",
+      "location_with_distance": "Area 90 (10.0 km)",
+      "image": "https://example.com/barbershop90.jpg",
+      "review_rate": 4.0
+    },
+    {
+      "name": "Barbershop 91",
+      "location_with_distance": "Area 91 (10.1 km)",
+      "image": "https://example.com/barbershop91.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 92",
+      "location_with_distance": "Area 92 (10.2 km)",
+      "image": "https://example.com/barbershop92.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 93",
+      "location_with_distance": "Area 93 (10.3 km)",
+      "image": "https://example.com/barbershop93.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 94",
+      "location_with_distance": "Area 94 (10.4 km)",
+      "image": "https://example.com/barbershop94.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 95",
+      "location_with_distance": "Area 95 (10.5 km)",
+      "image": "https://example.com/barbershop95.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 96",
+      "location_with_distance": "Area 96 (10.6 km)",
+      "image": "https://example.com/barbershop96.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 97",
+      "location_with_distance": "Area 97 (10.7 km)",
+      "image": "https://example.com/barbershop97.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 98",
+      "location_with_distance": "Area 98 (10.8 km)",
+      "image": "https://example.com/barbershop98.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 99",
+      "location_with_distance": "Area 99 (10.9 km)",
+      "image": "https://example.com/barbershop99.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 100",
+      "location_with_distance": "Area 100 (11.0 km)",
+      "image": "https://example.com/barbershop100.jpg",
+      "review_rate": 4.0
+    }
+  ],
+  "most_recommended": [
+    {
+      "name": "Master Piece Barbershop - Haircut Styling",
+      "location_with_distance": "Downtown (3 km)",
+      "image": "https://example.com/barbershop1.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Sharp Edge Barbers - Grooming Services",
+      "location_with_distance": "Eastside (4.5 km)",
+      "image": "https://example.com/barbershop2.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Gentlemen's Cut & Style",
+      "location_with_distance": "Old Town (2 km)",
+      "image": "https://example.com/barbershop3.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Classic Trim Barbershop",
+      "location_with_distance": "West End (6 km)",
+      "image": "https://example.com/barbershop4.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Fresh Fade Studio",
+      "location_with_distance": "North Hills (5.2 km)",
+      "image": "https://example.com/barbershop5.jpg",
+      "review_rate": 4.9
+    }
+  ],
+  "list": [
+    {
+      "name": "Master Piece Barbershop - Haircut Styling",
+      "location_with_distance": "Banguntapan (5 km)",
+      "image": "https://example.com/barbershop1.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Sharp Edge Barbers - Grooming Services",
+      "location_with_distance": "Downtown (4 km)",
+      "image": "https://example.com/barbershop2.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Gentlemen's Cut & Style",
+      "location_with_distance": "Old Town (3.5 km)",
+      "image": "https://example.com/barbershop3.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Classic Trim Barbershop",
+      "location_with_distance": "West End (6 km)",
+      "image": "https://example.com/barbershop4.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Fresh Fade Studio",
+      "location_with_distance": "North Hills (5.2 km)",
+      "image": "https://example.com/barbershop5.jpg",
+      "review_rate": 4.9
+    }
+  ]
+
+
+}
